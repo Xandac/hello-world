@@ -1,2 +1,9 @@
 # hello-world
-My first repository
+#############
+
+Hey there!
+
+You are reading the README for my first GitHub repository.
+
+Cheers,
+Xandac
